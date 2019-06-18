@@ -1,1 +1,11 @@
-INIT
+{
+"player": "Black",
+"ownSize": "medium",
+"takePiece": false,
+"opponentSize": "null",
+"move": "e3",
+"srcCol": 6,
+"srcRow": 0,
+"destCol": 5,
+"destRow": 2
+}
