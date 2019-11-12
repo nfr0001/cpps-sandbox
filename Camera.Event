@@ -1,7 +1,3 @@
 {
-  "obstacleDetected" : true,
-  "opponentSize" : "small",  
-  "destRow" : 4,  
-  "destCol" : 1,
-  "task" : "taskShell = async function() { takePiece2('small', 4, 1); await waitFor('(wait == false)'); };"
+  "obstacleDetected" : false
 }
