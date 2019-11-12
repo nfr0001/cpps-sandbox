@@ -1,6 +1,6 @@
 {
   "obstacleDetected" : true,
   "opponentSize" : "small",
-  "destRow" : 7,
-  "destCol" : 4
+  "destRow" : 4,
+  "destCol" : 1
 }
