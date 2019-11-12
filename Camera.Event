@@ -1,5 +1,5 @@
 {
-  "obstacleDetected" : false,
+  "obstacleDetected" : true,
   "opponentSize" : "small",
   "destRow" : 7,
   "destCol" : 4
