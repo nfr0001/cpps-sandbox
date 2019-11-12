@@ -4,7 +4,7 @@
 "takePiece": false,
 "opponentSize": "null",
 "move": "e4",
-"srcCol": 4,
+"srcCol": 4, 
 "srcRow": 2,
 "destCol": 5,
 "destRow": 2
