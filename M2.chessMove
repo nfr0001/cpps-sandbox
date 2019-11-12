@@ -1,1 +1,1 @@
-{"player" : "Black", "ownSize" : "small", "takePiece" : false, "opponentSize" : "null", "move" : "d7d5", "srcCol" : 4, "srcRow" : 1, "destCol" : 4, "destRow" : 3}
+{"player" : "Black", "ownSize" : "small", "takePiece" : true, "opponentSize" : "small", "move" : "d5c4p", "srcCol" : 4, "srcRow" : 3, "destCol" : 5, "destRow" : 4}
